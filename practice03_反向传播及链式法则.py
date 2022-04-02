@@ -2,6 +2,11 @@
 #  Time : 2022/4/1 17:40
 # E-mail: muyeqingfeng@126.com
 
+"""
+搬运工，只是记录一下学习过程
+源码请见：https://github.com/qcneverrepeat/ML01/blob/master/BP_DNN.ipynb
+"""
+
 import numpy as np
 from keras.utils import to_categorical
 from sklearn import datasets
